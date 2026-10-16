@@ -1,4 +1,4 @@
-# Pokemon-Ga-Ole-Console-Game
+# ⚡Pokemon-Ga-Ole-Console-Game
 
 <p align="center">
   <b>A text-based, object-oriented Java Pokémon console application simulating user authentication, dynamic evolution mechanics, elemental type matchups, and turn-based battles against wild Pokémon and rival trainers.</b>
